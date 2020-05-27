@@ -53,8 +53,8 @@
   </div>
 </template>
 <script>
-import filterList from "./filterList";
-import calorie from "./calorie";
+import filterList from "./FilterList";
+import calorie from "./Calorie";
 import BodyMassIndex from "./BodyMassIndex";
 export default {
   components: {

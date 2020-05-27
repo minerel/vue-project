@@ -1,0 +1,54 @@
+{
+  "message": "Healthy Life",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "homePage": {
+    "head": "Healthy lifestyle and longevity",
+    "p": "Researchers from the Harvard T.H. Chan School of Public Health conducted a massive study of the impact of health habits on life expectancy, using data from the well-known Nurses’ Health Study (NHS) and the Health Professionals Follow-up Study (HPFS). This means that they had data on a huge number of people over a very long period of time. The NHS included over 78,000 women and followed them from 1980 to 2014. The HPFS included over 40,000 men and followed them from 1986 to 2014. This is over 120,000 participants, 34 years of data for women, and 28 years of data for men. The researchers looked at NHS and HPFS data on diet, physical activity, body weight, smoking, and alcohol consumption that had been collected from regularly administered, validated questionnaires.",
+    "head2": "What is a healthy lifestyle, exactly?",
+    "p2": "These five areas were chosen because prior studies have shown them to have a large impact on risk of premature death. Here is how these healthy habits were defined and measured:<br> 1. Healthy diet, which was calculated and rated based on the reported intake of healthy foods like vegetables, fruits, nuts, whole grains, healthy fats, and omega-3 fatty acids, and unhealthy foods like red and processed meats, sugar-sweetened beverages, trans fat, and sodium.<br>2. Healthy physical activity level, which was measured as at least 30 minutes per day of moderate to vigorous activity daily.<br> 3. Healthy body weight, defined as a normal body mass index (BMI), which is between 18.5 and 24.9. <br>4. Smoking, well, there is no healthy amount of smoking. “Healthy” here meant never having smoked. <br>5. Moderate alcohol intake, which was measured as between 5 and 15 grams per day for women, and 5 to 30 grams per day for men. Generally, one drink contains about 14 grams of pure alcohol. That’s 12 ounces of regular beer, 5 ounces of wine, or 1.5 ounces of distilled spirits. Researchers also looked at data on age, ethnicity, and medication use, as well as comparison data from the National Health and Nutrition Examination Surveys and the Centers for Disease Control and Prevention’s Wide-Ranging Online Data for Epidemiologic Research.",
+    "fruits": {
+      "name": "Fruits",
+      "text": "Fruits; fruits rich in minerals, vitamins and fiber are frequently recommended for healthy life."
+    },
+    "oils": {
+      "name": "Oils",
+      "text": "It is the energy source of people and animals. While losing weight with a diet completely poor in fat affects health negatively, the use of fat-soluble vitamins such as vitamins A, D, E, K is prevented from being used in the body, and health problems begin to emerge because essential fatty acids cannot be taken."
+    },
+    "cereals": {
+      "name": "Cereals",
+      "text": "Cereals are edible seeds of plants. Cereal grains such as wheat, rye, corn, rice and oats and flour, pasta, noodle, bulgur, cracked, crunchy and similar products made from them are included in the grain group. Cereals are rich in all B vitamins besides vitamin B12, but they are also rich in vitamin B1."
+    },
+    "milk": {
+      "name": "Milk",
+      "text": "The need for milk, vitamin C and iron is a very good source of vitamins and minerals. Being for calcium and phosphorus is rich in protein, vitamin A, B vitamins and has a great impact on this growth and development."
+    },
+    "vegetables": {
+      "name": "Vegetables",
+      "text": "While vegetables contribute little to daily protein consumption, they are rich in vitamins and minerals. They help bowel movements"
+    },
+    "meals": {
+      "name": "Meals",
+      "text": "First of all, we can meet your body's quality protein needs with the best meat consumption. Protein; After water, it is the most important nutrient necessary for the body to grow, develop and protect it from diseases."
+    },
+    "bciHead":"Calculate Your Body Mass Index",
+    "height": "Height",
+    "weight": "Weight",
+    "calorieHead":"What is calorie?",
+    "calorieText":"Calorie is the unit of energy that is found in almost all foods and is necessary for the body to function. We get calories with the nutrients we eat in our body. We also burn calories while performing and moving our body functions. Regardless of our goal, losing or gaining weight is very important in calculating calories. We can get more guaranteed results by basing the way to our goal in mathematics."
+  },
+  "aboutPage": {
+    "p": "Natalia is a Fully Certified Functional Medicine Practitioner which there are only about 38 practitioners in the UK. This is the Gold Standard in Functional Medicine training so her clients are assured she is working to the highest level possible.She is a member of the British Association for Applied and Nutritional (BANT), the gold standard for Nutritional Therapy practitioners in the U.K. She is registered with the Complementary and Natural Health Council (CNHC), the only Nutritional Therapy register accredited by the Professional Standards Authority."
+  },
+  "contactPage": {
+    "head": "Small changes in your diet may lead to big changes in your health",
+    "p": "Nutritional Therapy is based on the premise that everyone has an individual level of optimum nutrition, which becomes a balancing act of very diverse nutritional requirements. What is good for one person, may not be right for you. You may be looking for an energy boost, trying to reverse digestive problems, have a chronic condition such as an allergy, digestive or bowel disorders, hormonal imbalances or you may have a specific weight loss target. My objective is to fully understand your individual requirements, through conversation, profiling and where necessary, clinical tests. Please enjoy my website and be in touch if you have any questions. Together we can find the right nutritional therapy for you.",
+    "name": "Name",
+    "email": "E-mail",
+    "note": "Note",
+    "submit": "Submit"
+  }
+}

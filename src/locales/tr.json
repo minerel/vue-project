@@ -1,0 +1,54 @@
+{
+    "message": "Sağlıklı Yaşam",
+    "nav": {
+        "home": "Anasayfa",
+        "about": "Hakkında",
+        "contact": "İletişim"
+    },
+    "homePage": {
+        "head": "Sağlıklı yaşam tarzı ve uzun ömürlülük",
+        "p": "Harvard T.H.'den araştırmacılar Chan Halk Sağlığı Okulu, tanınmış Hemşirelerin Sağlık Çalışması (NHS) ve Sağlık Uzmanları Takip Çalışması'ndan (HPFS) verileri kullanarak sağlık alışkanlıklarının yaşam beklentisi üzerindeki etkisi üzerine büyük bir çalışma yürüttü. Bu, çok uzun bir süre boyunca çok sayıda insan hakkında verilere sahip oldukları anlamına gelir. NHS, 78.000'den fazla kadını içeriyordu ve 1980'den 2014'e kadar izledi. HPFS, 40.000'den fazla erkeği dahil etti ve 1986'dan 2014'e kadar izledi. Bu, 120.000'den fazla katılımcı, kadınlar için 34 yıllık veri ve erkekler için 28 yıllık veri. Araştırmacılar, düzenli olarak uygulanan, onaylanmış anketlerden toplanan diyet, fiziksel aktivite, vücut ağırlığı, sigara içme ve alkol tüketimi ile ilgili NHS ve HPFS verilerine baktılar.",
+        "head2": "Sağlıklı bir yaşam tarzı tam olarak nedir?",
+        "p2": "Bu beş alan seçilmiştir, çünkü önceki çalışmalar erken ölüm riski üzerinde büyük bir etkiye sahip olduklarını göstermiştir. Bu sağlıklı alışkanlıkların nasıl tanımlandığı ve ölçüldüğü aşağıda açıklanmıştır:<br> 1. Sebze, meyve, fındık, kepekli tahıllar, sağlıklı yağlar ve omega-3 yağ asitleri gibi sağlıklı gıdaların alımına göre hesaplanan ve derecelendirilen sağlıklı beslenme ve kırmızı ve işlenmiş etler, şekerle tatlandırılmış içecekler, trans yağ ve sodyum gibi sağlıksız yiyecekler. <br>2. Günde en az 30 dakika orta ila kuvvetli aktivite günlük olarak ölçülen sağlıklı fiziksel aktivite seviyesi. <br>3. 18.5 ve 24.9 arasında normal vücut kitle indeksi (VKİ) olarak tanımlanan sağlıklı vücut ağırlığı. <br>4. Sigara içmek, sağlıklı bir şekilde sigara içilmez. Burada “sağlıklı” hiç sigara içmemek demekti.<br> 5. Kadınlar için günde 5 ila 15 gram ve erkekler için günde 5 ila 30 gram olarak ölçülen orta alkol alımı. Genellikle bir içecek yaklaşık 14 gram saf alkol içerir. Bu 12 ons normal bira, 5 ons şarap veya 1.5 ons damıtılmış alkollü içki. Araştırmacılar ayrıca, Yaş, etnik köken ve ilaç kullanımı ile ilgili verilere ve Ulusal Sağlık ve Beslenme İnceleme Anketlerinden ve Hastalık Kontrol ve Önleme Merkezlerinin Epidemiyolojik Araştırmalar için Geniş Aralıklı Çevrimiçi Verilerinden karşılaştırma verilerine de baktılar.",
+        "fruits": {
+            "name": "Meyveler",
+            "text": "Meyveler; mineral, vitamin ve lif açısından zengin meyveler, sağlıklı yaşam için sık sık önerilen besinlerdir."
+        },
+        "oils": {
+            "name": "Yağlar",
+            "text": "İnsan ve hayvanların enerji kaynağıdır. Yağdan tamamen fakir bir diyetle kilo vermek sağlığı olumsuz etkilerken, A,D,E,K vitaminleri gibi yağda eriyen vitaminlerin vücutta kullanılmaları engellenir, elzem yağ asitleri de alınamadığından sağlık sorunları ortaya çıkmaya başlar."
+        },
+        "cereals": {
+            "name": "Tahıllar",
+            "text": "Tahıllar, bitkilerin yenilebilen tohumlarıdır. Buğday, çavdar, mısır, pirinç ve yulaf gibi tahıl taneleri ve bunlardan yapılan un, makarna, şehriye, bulgur, yarma, gevrek ve benzeri ürünler tahıl grubu içinde yer alır. Tahıllar B12 vitamini dışındaki tüm B vitaminlerinden zengin olmasının yanında en çok  B1 vitamininden zengindir."
+        },
+        "milk": {
+            "name": "Süt",
+            "text": "Süt, C vitamini ve demir dışındaki vitamin ve mineraller için çok iyi bir kaynaktır. Kalsiyum ve fosfor başta olmak üzere protein, A vitamini, B vitaminlerinden zengindir ve bu nedenle de büyüme ve gelişme üzerine etkisi çok büyüktür"
+        },
+        "vegetables": {
+            "name": "Sebzeler",
+            "text": "Sebzeler günlük protein tüketimine çok az katkıda bulunurken vitamin ve minerallerden zengindir. Bağırsak hareketlerine yardımcı olurlar."
+        },
+        "meals": {
+            "name": "Etler",
+            "text": "Öncelikle vücudun kaliteli protein ihtiyacın en iyi et tüketimi ile karşılayabiliriz.  Protein; sudan sonra, vücudun büyümesi, gelişmesi ve hastalıklardan korunması için gerekli olan en önemli besin maddesidir."
+        },
+        "bciHead":"Vücut Kitle İndeksinizi Hesaplayın",
+        "height": "Boy",
+        "weight": "Kilo",
+        "calorieHead":"Kalori Nedir?",
+        "calorieText":"Kalori, neredeyse tüm gıdalarda bulunan ve vücudun fonksiyonlarını yerine getirmesi için gereken enerji birimidir. Vücudumuza yediğimiz besinlerle kalori alırız. Vücut fonksiyonlarımızı yerine getirirken ve hareket ederken de kalori yakarız. Kilo vermek veya kilo almak, hedefimiz ne olursa olsun kalori hesaplama oldukça önemlidir. Amacımıza giden yolu matematiğe dayandırarak daha garanti sonuçlar alabiliriz."
+    },
+    "aboutPage": {
+        "p": "Natalia, Birleşik Krallık'ta sadece yaklaşık 38 uygulayıcının bulunduğu Tam Sertifikalı bir Fonksiyonel Tıp Uygulayıcısıdır. Bu Fonksiyonel Tıpta Altın Standarttır, bu nedenle müşterilerinin mümkün olan en üst düzeyde çalıştığından emin olur.İngiltere'deki Beslenme Terapisi uygulayıcıları için altın standart olan İngiliz Uygulamalı ve Beslenme Derneği'nin (BANT) bir üyesidir. Profesyonel Standartlar Kurumu tarafından akredite edilen tek Beslenme Terapisi kaydı olan Tamamlayıcı ve Doğal Sağlık Konseyi'ne (CNHC) kayıtlıdır."
+    },
+    "contactPage": {
+        "head": "Diyetinizdeki küçük değişiklikler sağlığınızda büyük değişikliklere yol açabilir",
+        "p": "Beslenme Terapisi, herkesin çok çeşitli beslenme gereksinimlerinin dengeleyici bir etkisi haline gelen bireysel bir optimum beslenme seviyesine sahip olduğu öncülüne dayanır. Bir kişi için iyi olan, sizin için doğru olmayabilir. Bir enerji artışı arıyor olabilir, sindirim problemlerini tersine çevirmeye çalışıyor, alerji, sindirim veya bağırsak bozuklukları, hormonal dengesizlikler gibi kronik bir duruma sahip olabilir veya belirli bir kilo verme hedefiniz olabilir. Amacım konuşma, profil oluşturma ve gerektiğinde klinik testler yoluyla bireysel gereksinimlerinizi tam olarak anlamaktır. Lütfen web sitemin keyfini çıkarın ve herhangi bir sorunuz varsa iletişime geçin. Birlikte sizin için doğru beslenme terapisini bulabiliriz.",
+        "name": "İsim",
+        "email": "E-mail",
+        "note": "Not",
+        "submit": "Gönder"
+    }
+}

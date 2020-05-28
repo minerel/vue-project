@@ -1,7 +1,6 @@
 <template>
   <div>
-    <app-header class="container">
-    </app-header>
+    <app-header class="container"></app-header>
     <transition name="fade" mode="out-in">
       <router-view></router-view>
     </transition>
@@ -10,6 +9,7 @@
 </template>
 
 <script>
+
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 export default {
@@ -29,7 +29,7 @@ export default {
 
 .fade-enter,
 .fade-leave-active {
-  opacity: 0
+  opacity: 0;
 }
 </style>
 

@@ -4,7 +4,7 @@ import VueRouter from "vue-router";
 import { routes } from "./routes.js";
 import VueResource from "vue-resource";
 import i18n  from "./i18n";
-import store  from "./store";
+import store from "./store";
 
 Vue.use(VueRouter);
 Vue.use(VueResource);

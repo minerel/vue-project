@@ -19,7 +19,7 @@
         <div class="d-flex justify-content-center">
           <button class="btn btn-lg btn-info col-md-5" @click="save"  v-on:click="isHidden = !isHidden">{{$t('contactPage.submit')}}</button>
         </div>
-          <h5 class=" mt-3 text-center text-info" v-if="isHidden">{{welcomeMessage}}</h5>
+          <h5 class="mt-3 text-center text-info" v-if="isHidden">{{welcomeMessage}}</h5>
       </div>
       <!--partial-->
 

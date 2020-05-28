@@ -3,11 +3,11 @@ import Vuex from "vuex";
 Vue.use(Vuex);
 
 const state ={
-  message: 'Thank you for contacting me',
+  message: 'Thank you for contacting me ',
   username: ''
 };
 const getters ={
-  welcomeMessage( state ){
+  welcomeMessage(state){
     return `${state.message} ${state.username}`;
   }
 };

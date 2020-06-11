@@ -47,19 +47,17 @@
 
       <app-list></app-list>
     </div>
-    <!-- <button class="btn btn-link">
-      <img src="/src/img/like.png" style="height:10%; width:10%" />
-    </button> -->
+    
   </div>
 </template>
 <script>
-import filterList from "./FilterList";
-import calorie from "./Calorie";
+import FilterList from "./FilterList";
+import Calorie from "./Calorie";
 import BodyMassIndex from "./BodyMassIndex";
 export default {
   components: {
-    appList: filterList,
-    appCalorie: calorie,
+    appList: FilterList,
+    appCalorie: Calorie,
     appBmi: BodyMassIndex
   },
   methods: {}
